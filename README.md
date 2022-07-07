@@ -9,7 +9,7 @@
 
 This repository is made just to explain why the repo is not under `NullHooks/NullHooks`.
 
-Right now there is someone else with access to the NullHooks repository (@hBufer), and he can push only to non-protected branches (And then open a pull request). Because right now that is a feature that I want to keep, and the [free version](https://github.com/pricing) of github organizations does not allow protected branches, I want to keep things like they are.  
+Right now there is someone else with access to the NullHooks repository (@hBuffer), and he can push only to non-protected branches (And then open a pull request). Because right now that is a feature that I want to keep, and the [free version](https://github.com/pricing) of github organizations does not allow protected branches, I want to keep things like they are.  
 
 If in the future I decide to migrate the repository to here, this repo will be replaced.
 
